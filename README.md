@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin ein Junior Entwickler aus Deutschland
+# 👋 Hi, ich bin ein Junior Entwickler und SysAdmin
 
 Mit Hintergrund in **Systemintegration und Administration** bin ich aktuell dabei, tiefer in die **Webentwicklung** einzusteigen. Moderne Tools und Frameworks wie **Astro.js** faszinieren mich besonders – leicht, schnell, innovativ.
 
