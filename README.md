@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, ich bin ein Junior Entwickler aus Deutschland
 
-<!--
-**Qyazo/qyazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mit Hintergrund in **Systemintegration und Administration** bin ich aktuell dabei, tiefer in die **Webentwicklung** einzusteigen. Moderne Tools und Frameworks wie **Astro.js** faszinieren mich besonders – leicht, schnell, innovativ.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Interessen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Systemintegration:** Windows & Linux, Netzwerke, Automatisierung (Bash, PowerShell)
+- **Web (im Aufbau):** HTML, CSS, JS/TS, Astro, Tailwind, React
+- **Tools:** Git, Docker, VS Code
+
+## 🚀 Aktuell lerne ich:
+
+- Moderne Web-Architekturen & Frameworks
+- Frontend-Performance & Best Practices
+
+📫 Schreib mir gerne, wenn du dich austauschen möchtest!
