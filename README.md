@@ -4,7 +4,7 @@ Mit Hintergrund in **Systemintegration und Administration** bin ich aktuell dabe
 
 ## 🔧 Skills & Interessen
 
-- **Systemintegration:** Windows & Linux, Netzwerke, Automatisierung (Bash, PowerShell)
+- **Systemintegration:** macOS & Linux, Netzwerke, Automatisierung (Bash, PowerShell)
 - **Web (im Aufbau):** HTML, CSS, JS/TS, Astro, Tailwind, React
 - **Tools:** Git, Docker, VS Code
 
