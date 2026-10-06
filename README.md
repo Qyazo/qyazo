@@ -12,5 +12,3 @@ Mit Hintergrund in **Systemintegration und Administration** bin ich aktuell dabe
 
 - Moderne Web-Architekturen & Frameworks
 - Frontend-Performance & Best Practices
-
-📫 Schreib mir gerne, wenn du dich austauschen möchtest!
